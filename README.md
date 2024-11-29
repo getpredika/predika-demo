@@ -10,6 +10,11 @@ The videos in this repository aim to:
 - Showcase real-time features like spelling and grammar correction.
 - Highlight backend functionalities and user authentication.
 
+## Demo Video
+Note: The quality of the GIF is not optimal and may not fully capture the clarity of the platform's features.
+
+<img src='/videos/demo.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 ## **Repository Structure**
 
 - **`/videos`**: Contains the demo videos showcasing various features.
