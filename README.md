@@ -23,8 +23,3 @@ The videos in this repository aim to:
 2. **Predika API**:
    - Secure API interactions for managing user data.
    - Integration with Cloudflare R2 for efficient media storage.
-
-
-## **License**
-
-This repository is licensed under the MIT License. See the `LICENSE` file for details.
